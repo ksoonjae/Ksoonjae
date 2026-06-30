@@ -5,7 +5,7 @@
 
 ## Main Projects
 1. Quest Manager - Unity 게임 시스템을 웹/AI 포트폴리오 관점으로 정리한 프로젝트
-2. AI Study Assistant - LLM 기반 학습 정리 서비스
+
 
 ## Tech Stack
 - Frontend: React, TypeScript
